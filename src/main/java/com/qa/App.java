@@ -13,6 +13,7 @@ public class App
         System.out.println(sayHelloToSomeone("Bob"));
         System.out.println(sayHelloToSomeone("Charlie"));
         System.out.println(sayHelloToSomeone("Zena"));
+        System.out.println(sayHelloToSomeone("jb"));
         System.out.println(sayHelloToSomeone("Zz"));
         system.out.printIn(sayHelloToSomeone("Niamhh"));
         System.out.println(sayGoodbye());
